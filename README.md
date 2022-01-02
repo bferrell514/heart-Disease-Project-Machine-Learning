@@ -4,23 +4,24 @@ Prediciting hearting disease using machine learning
 This notebook looks into using various Python-based machine learning and data science libraries in an attempt to build a machine learning model capable of prediciting wheather or not someone has hear disease based on their medical attributes.
 
 We're going to take the following approach:
-1. Problem Definition
-2. Data
-3. Evaluation
-4. Features
-5. Modelling
-6. Experimentation
+  1. Problem Definition
+  2. Data
+  3. Evaluation
+  4. Features
+  5. Modelling
+  6. Experimentation
 
-1. Problem Definition in a statement, Given Clicical parameters about a patient, can we predict whether or not they have hear disease?
+Problem Definition 
+in a statement, Given Clicical parameters about a patient, can we predict whether or not they have hear disease?
 
-2. Data
+Data
 The original data came from Cleveland data from the UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/heart+Disease
 There is also a version of it available on Kaggle. https://www.kaggle.com/ronitf/heart-disease-uci
 
-3. Evaluation
+Evaluation
 If we can reach 95% accuracy at predicting whether or not a patient has heart disease during the proof of concept, we'll pursue the project.
 
-4. Features
+Features
 This is where you'll get different information abou each of the features in your data
 
 Create data dictionary
