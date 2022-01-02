@@ -1,4 +1,4 @@
-# heartDiseaseProjectMachineLearning
+# heartDiseaseProjectWithMachineLearning
 Prediciting hearting disease using machine learning
 
 This notebook looks into using various Python-based machine learning and data science libraries in an attempt to build a machine learning model capable of prediciting wheather or not someone has hear disease based on their medical attributes.
